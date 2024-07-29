@@ -1,0 +1,13 @@
+button{background-color: rgba(0, 0, 0, 0.562);
+width: 25px; height: 25px;
+color: white;
+font-size: medium;
+border: 2px solid rgba(0, 0, 0, 0.918);
+border-radius: 10%;}
+
+p{
+width: 150px;
+height: 50px;
+border: 2px solid rgb(0, 0, 0);}
+
+.cont {display: flex;}
